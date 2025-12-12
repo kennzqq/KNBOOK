@@ -50,7 +50,7 @@ withDefaults(
                     
                     <div class="relative w-full md:max-w-md h-[280px] sm:h-[320px] md:h-[380px] flex items-center justify-center">
                         <img 
-                            src="../../../public/images/hero.png" 
+                            src="/images/hero.png" 
                             alt="Books illustration" 
                             class="w-full h-full object-contain"
                         />
