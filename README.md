@@ -85,7 +85,7 @@ A modern web application for discovering and exploring millions of books using G
    DB_CONNECTION=mysql
    DB_HOST=127.0.0.1
    DB_PORT=3306
-   DB_DATABASE=laravel_app
+   DB_DATABASE=laravel
    DB_USERNAME=root
    DB_PASSWORD=
    ```
