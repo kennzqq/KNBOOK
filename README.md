@@ -4,16 +4,24 @@ A modern web application for discovering and exploring millions of books using G
 
 ## Preview
 
-### 🏠 Home Page
-![Home Page](public/images/homepage.png)
-
-### 📖 Book Details Page
-![Book Details](public/images/details.png)
-
-### ℹ️ About Page
-![About Page](public/images/about.png)
-
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="public/images/homepage.png" width="300">
+      <p>🏠 Home Page</p>
+    </td>
+    <td align="center">
+      <img src="public/images/details.png" width="300">
+      <p>📖 Book Details Page</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="public/images/about.png" width="400">
+      <p>ℹ️ About Page</p>
+    </td>
+  </tr>
+</table>
 
 ## Features
 
@@ -159,7 +167,7 @@ laravel_app/
 │   └── factories/                      # Test data factories
 ├── public/
 │   ├── images/
-│   │   └── dev.jpg                    #Images
+│   │   └── dev.jpg                    # Images
 │   └── build/                         # Compiled assets
 ├── resources/
 │   ├── js/
