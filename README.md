@@ -17,7 +17,7 @@ A modern web application for discovering and exploring millions of books using G
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="public/images/about.png" width="400">
+      <img src="public/images/about.png" width="300">
       <p>ℹ️ About Page</p>
     </td>
   </tr>
