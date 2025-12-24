@@ -36,7 +36,7 @@ A modern web application for discovering and exploring millions of books using G
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd laravel_app
+   cd KNBOOK
    ```
 
 2. **Install dependencies**
