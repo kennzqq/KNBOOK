@@ -159,7 +159,7 @@ laravel_app/
 │   │   │   ├── Show.vue               # Individual book details
 │   │   │   ├── Home.vue               # Landing page
 │   │   │   ├── Services.vue           # Services showcase
-│   │   │   ├── About.vue              # About page (includes developer section)
+│   │   │   ├── About.vue              # About page
 │   │   │   ├── Contact.vue            # Contact form
 │   │   │   └── auth/                  # Login & registration pages
 │   │   ├── layouts/
